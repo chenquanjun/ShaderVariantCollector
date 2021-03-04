@@ -1,0 +1,165 @@
+{
+	"shaderHashCache":{
+		"Hidden/BlitCopy":{
+			"hash":"cd2d795a515989a12cf525a36ee53700"
+		},
+		"Hidden/Universal Render Pipeline/LutBuilderLdr":{
+			"hash":"9c6792d5cfe4b0ede3914d6566c72bf6"
+		},
+		"Hidden/Universal Render Pipeline/Blit":{
+			"hash":"00ab784b23d1d0a0af7af5525702c749"
+		},
+		"Shader Graphs/Normal-Diffuse":{
+			"hash":"a326b22c50ad5e9369264dde775c1d14"
+		},
+		"Hidden/Shader Graph/FallbackError":{
+			"hash":"a89be708990ddb09dbc53f4fc14f8d0a"
+		},
+		"Universal Render Pipeline/Lit":{
+			"hash":"3007b6bbf73cbaeea6b861058266d46d"
+		},
+		"Hidden/Universal Render Pipeline/FallbackError":{
+			"hash":"64e92da958b1e30003d77a5bd3f1405b"
+		},
+		"Paint1G_WAnim_Shader":{
+			"hash":"828192496be3ebb99a4d6a0d758d9936"
+		},
+		"Hidden/Universal Render Pipeline/UberPost":{
+			"hash":"c81ebb07fad0e2a09b21f43693977f0b"
+		},
+		"Hidden/Universal Render Pipeline/Bloom":{
+			"hash":"07ff14d376e94b8b5ea4ce1bede81711"
+		},
+		"Hidden/Universal Render Pipeline/FinalPost":{
+			"hash":"3facb610d5e7cd324971f8fda6bd2534"
+		},
+		"Hidden/Universal Render Pipeline/CopyDepth":{
+			"hash":"cd304acbb2600d3db4f1e4db6ae0fee5"
+		}
+	},
+	"validCache":{
+		"Hidden/BlitCopy;cd2d795a515989a12cf525a36ee53700;Normal;":{
+			"shaderHash":"cd2d795a515989a12cf525a36ee53700",
+			"validSet":[
+				""
+			]
+		},
+		"Hidden/Universal Render Pipeline/LutBuilderLdr;9c6792d5cfe4b0ede3914d6566c72bf6;Normal;":{
+			"shaderHash":"9c6792d5cfe4b0ede3914d6566c72bf6",
+			"validSet":[
+				""
+			]
+		},
+		"Hidden/Universal Render Pipeline/Blit;00ab784b23d1d0a0af7af5525702c749;Normal;":{
+			"shaderHash":"00ab784b23d1d0a0af7af5525702c749",
+			"validSet":[
+				""
+			]
+		},
+		"Shader Graphs/Normal-Diffuse;a326b22c50ad5e9369264dde775c1d14;ScriptableRenderPipeline;":{
+			"shaderHash":"a326b22c50ad5e9369264dde775c1d14",
+			"validSet":[
+				"",
+				"_ADDITIONAL_LIGHTS_VERTEX;FOG_LINEAR"
+			],
+			"invalidSet":[
+				"_ADDITIONAL_LIGHTS;_DEPTH_NO_MSAA;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR",
+				"_ADDITIONAL_LIGHTS;_DEPTH_NO_MSAA;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR;UNITY_HDR_ON",
+				"_ADDITIONAL_LIGHTS;_DEPTH_NO_MSAA;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR",
+				"_ADDITIONAL_LIGHTS;_DEPTH_NO_MSAA;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR;UNITY_HDR_ON",
+				"_DEPTH_NO_MSAA;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR",
+				"_DEPTH_NO_MSAA;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR;UNITY_HDR_ON",
+				"_DEPTH_NO_MSAA;BILLBOARD_FACE_CAMERA_POS;FOG_LINEAR"
+			]
+		},
+		"Hidden/Shader Graph/FallbackError;a89be708990ddb09dbc53f4fc14f8d0a;ScriptableRenderPipeline;":{
+			"shaderHash":"a89be708990ddb09dbc53f4fc14f8d0a",
+			"invalidSet":[
+				""
+			]
+		},
+		"Shader Graphs/Normal-Diffuse;a326b22c50ad5e9369264dde775c1d14;ShadowCaster;":{
+			"shaderHash":"a326b22c50ad5e9369264dde775c1d14",
+			"validSet":[
+				""
+			]
+		},
+		"Hidden/Shader Graph/FallbackError;a89be708990ddb09dbc53f4fc14f8d0a;ShadowCaster;":{
+			"shaderHash":"a89be708990ddb09dbc53f4fc14f8d0a",
+			"invalidSet":[
+				""
+			]
+		},
+		"Universal Render Pipeline/Lit;3007b6bbf73cbaeea6b861058266d46d;ScriptableRenderPipeline;":{
+			"shaderHash":"3007b6bbf73cbaeea6b861058266d46d",
+			"validSet":[
+				"",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_ALPHAPREMULTIPLY_ON;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_EMISSION;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_METALLICSPECGLOSSMAP;_NORMALMAP;_OCCLUSIONMAP;_SHADOWS_SOFT;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_METALLICSPECGLOSSMAP;_NORMALMAP;_SHADOWS_SOFT;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_METALLICSPECGLOSSMAP;_OCCLUSIONMAP;_SHADOWS_SOFT;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_NORMALMAP;_SHADOWS_SOFT;_SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;_SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A;FOG_EXP2",
+				"_SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A"
+			]
+		},
+		"Hidden/Universal Render Pipeline/FallbackError;64e92da958b1e30003d77a5bd3f1405b;ScriptableRenderPipeline;":{
+			"shaderHash":"64e92da958b1e30003d77a5bd3f1405b",
+			"invalidSet":[
+				""
+			]
+		},
+		"Universal Render Pipeline/Lit;3007b6bbf73cbaeea6b861058266d46d;ShadowCaster;":{
+			"shaderHash":"3007b6bbf73cbaeea6b861058266d46d",
+			"validSet":[
+				"",
+				"_SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A"
+			]
+		},
+		"Hidden/Universal Render Pipeline/FallbackError;64e92da958b1e30003d77a5bd3f1405b;ShadowCaster;":{
+			"shaderHash":"64e92da958b1e30003d77a5bd3f1405b",
+			"invalidSet":[
+				""
+			]
+		},
+		"Paint1G_WAnim_Shader;828192496be3ebb99a4d6a0d758d9936;ScriptableRenderPipeline;":{
+			"shaderHash":"828192496be3ebb99a4d6a0d758d9936",
+			"invalidSet":[
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_DEPTH_NO_MSAA;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;BILLBOARD_FACE_CAMERA_POS;FOG_EXP2",
+				"_ADDITIONAL_LIGHT_SHADOWS;_ADDITIONAL_LIGHTS;_DEPTH_NO_MSAA;_MAIN_LIGHT_SHADOWS;_MAIN_LIGHT_SHADOWS_CASCADE;_SHADOWS_SOFT;BILLBOARD_FACE_CAMERA_POS;FOG_EXP2;UNITY_HDR_ON"
+			]
+		},
+		"Paint1G_WAnim_Shader;828192496be3ebb99a4d6a0d758d9936;ShadowCaster;":{
+			"shaderHash":"828192496be3ebb99a4d6a0d758d9936",
+			"validSet":[
+				""
+			]
+		},
+		"Hidden/Universal Render Pipeline/UberPost;c81ebb07fad0e2a09b21f43693977f0b;Normal;":{
+			"shaderHash":"c81ebb07fad0e2a09b21f43693977f0b",
+			"validSet":[
+				"",
+				"_BLOOM_LQ;_TONEMAP_ACES"
+			]
+		},
+		"Hidden/Universal Render Pipeline/Bloom;07ff14d376e94b8b5ea4ce1bede81711;Normal;":{
+			"shaderHash":"07ff14d376e94b8b5ea4ce1bede81711",
+			"validSet":[
+				""
+			]
+		},
+		"Hidden/Universal Render Pipeline/FinalPost;3facb610d5e7cd324971f8fda6bd2534;Normal;":{
+			"shaderHash":"3facb610d5e7cd324971f8fda6bd2534",
+			"validSet":[
+				"_FXAA"
+			]
+		},
+		"Hidden/Universal Render Pipeline/CopyDepth;cd304acbb2600d3db4f1e4db6ae0fee5;Normal;":{
+			"shaderHash":"cd304acbb2600d3db4f1e4db6ae0fee5",
+			"validSet":[
+				"_DEPTH_NO_MSAA"
+			]
+		}
+	}
+}

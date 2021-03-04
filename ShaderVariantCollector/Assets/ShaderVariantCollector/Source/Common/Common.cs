@@ -26,10 +26,10 @@ namespace ShaderVariantCollector {
         public const string ShaderCollectionPrefabPath = PluginRootPath + "Resources/Shaders/ShaderCollection.prefab";
 
         // all shader varient save in this folder
-        public const string DefaultProjectShaderPath = "Assets/Shaders";
+        public const string DefaultProjectShaderPath = "Assets/Res/Shaders/";
 
         // unity buildin or Package shader(like com.unity.render-pipelines.universal/Shaders/Lit.shader)
-        public const string UnityBuildInOrPackagePath = "Assets/Shaders/buildin";
+        public const string UnityBuildInOrPackagePath = "Assets/Res/Shaders/buildin/";
 
         public const string BlackholeScenePath = PluginRootPath + "Resources/Default/Scene/Off.unity";
 

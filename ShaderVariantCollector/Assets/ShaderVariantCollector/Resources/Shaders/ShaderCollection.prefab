@@ -43,8 +43,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77350e38265abb04b844222fddb464af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_shaders:
-  - name: Legacy Shaders/Diffuse
-    shader: {fileID: 4800000, guid: 7e66d3117619be5489de1d30ac5da716, type: 3}
+  m_shaders: []
   m_shaderVariantCollections:
-  - {fileID: 20000000, guid: fd309f6dfd236ff4db75e2f370064a38, type: 2}
+  - {fileID: 0}
